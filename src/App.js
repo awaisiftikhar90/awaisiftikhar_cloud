@@ -2,8 +2,8 @@ import './App.css';
 
 function App() {
   return (
-    <div className="text-center" style="margin-top:10%;">
-      <img src="https://api.qrserver.com/v1/create-qr-code/?size=1024x1024&data=https://www.linkedin.com/in/awaisiftikhar90/" className="img-fluid" style="width:200px;"/>
+    <div className="text-center" style={{marginTop: "10%"}}>
+      <img src="https://api.qrserver.com/v1/create-qr-code/?size=1024x1024&data=https://www.linkedin.com/in/awaisiftikhar90/" alt="QR" className="img-fluid" style={{width: 200}}/>
       <br/><br/>
       <h1>Awais Iftikhar</h1>
       <h4>Software Engineer</h4>
