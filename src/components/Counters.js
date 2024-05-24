@@ -46,7 +46,7 @@ export default function Counters() {
             <div className="col-md-7 ftco-animate text-center">
               <h2>I'm <span>Available</span> for Fulltime W2 Employement in US</h2>
               {/* <p></p> */}
-              <p className="mb-0"><a target="_blank" href="https://www.linkedin.com/in/awaisiftikhar90/" className="btn btn-primary py-3 px-5">Hire me</a></p>
+              <p className="mb-0"><a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/awaisiftikhar90/" className="btn btn-primary py-3 px-5">Hire me</a></p>
             </div>
           </div>
         </div>

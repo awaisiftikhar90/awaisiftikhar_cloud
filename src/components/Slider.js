@@ -14,7 +14,7 @@ export default function Slider() {
                             <span className="subheading">Hello!</span>
                             <h1 className="mb-4 mt-3">I'm <span>Awais Iftikhar</span></h1>
                             <h2 className="mb-4">Software Engineer</h2>
-                            <p><a target="_blank" href="https://www.linkedin.com/in/awaisiftikhar90/" className="btn btn-primary py-3 px-4">Hire me</a> <a target="_blank" href="https://github.com/awaisiftikhar90" className="btn btn-white btn-outline-white py-3 px-4">GitHub</a></p>
+                            <p><a target="_blank" href="https://www.linkedin.com/in/awaisiftikhar90/" rel="noreferrer" className="btn btn-primary py-3 px-4">Hire me</a> <a target="_blank" rel="noreferrer" href="https://github.com/awaisiftikhar90" className="btn btn-white btn-outline-white py-3 px-4">GitHub</a></p>
                         </div>
                         </div>
                     </div>

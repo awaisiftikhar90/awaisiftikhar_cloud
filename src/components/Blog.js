@@ -12,17 +12,17 @@ export default function Blog() {
           <div className="row d-flex">
             <div className="col-md-12 d-flex ftco-animate">
               <div className="blog-entry justify-content-end">
-                <a target="_blank" href="https://medium.com/@awais.iftikhar.satti/understanding-cloud-basics-api-gateway-and-lambda-keep-your-api-traffic-secure-461983854be6" className="block-20" style={{backgroundImage: `url("https://miro.medium.com/v2/resize:fit:720/format:webp/1*6h1dkkm8Ia-kxujfuKdieA.png")`}}>
+                <a target="_blank" rel="noreferrer" href="https://medium.com/@awais.iftikhar.satti/understanding-cloud-basics-api-gateway-and-lambda-keep-your-api-traffic-secure-461983854be6" className="block-20" style={{backgroundImage: `url("https://miro.medium.com/v2/resize:fit:720/format:webp/1*6h1dkkm8Ia-kxujfuKdieA.png")`}}>
                 </a>
                 <div className="text mt-3 float-right d-block">
                   <div className="d-flex align-items-center mb-3 meta">
                     <p className="mb-0">
                       <span className="mr-2">May 24, 2024</span>
-                      <a href="#" className="mr-2">Awais Iftikhar</a>
-                      <a href="#" className="meta-chat"><span className="icon-chat"></span> 3</a>
+                      <a href="/" className="mr-2">Awais Iftikhar</a>
+                      {/* <a href="/" className="meta-chat"><span className="icon-chat"></span> 3</a> */}
                     </p>
                   </div>
-                  <h3 className="heading"><a target="_blank" href="https://medium.com/@awais.iftikhar.satti/understanding-cloud-basics-api-gateway-and-lambda-keep-your-api-traffic-secure-461983854be6">Understanding Cloud Basics: API Gateway and Lambda (Keep your API traffic secure.)</a></h3>
+                  <h3 className="heading"><a target="_blank" rel="noreferrer" href="https://medium.com/@awais.iftikhar.satti/understanding-cloud-basics-api-gateway-and-lambda-keep-your-api-traffic-secure-461983854be6">Understanding Cloud Basics: API Gateway and Lambda (Keep your API traffic secure.)</a></h3>
                   <p></p>
                 </div>
               </div>

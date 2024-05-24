@@ -44,7 +44,7 @@ export default function Contact() {
                   <span className="icon-globe"></span>
                 </div>
                 <h3 className="mb-4">Website</h3>
-                <p><a href="#">awaisiftikhar.com</a></p>
+                <p><a href="/">awaisiftikhar.com</a></p>
               </div>
             </div>
           </div>
